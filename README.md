@@ -31,4 +31,3 @@ These are some things that will be implemented soon:
 - [ ] Rich terminal experience using `prompt_toolkit`
 - [ ] Full customisation over game rules via setup 'wizard' or json/yaml config
 - [ ] Custom boards
-- [ ]
