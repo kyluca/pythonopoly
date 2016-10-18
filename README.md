@@ -31,3 +31,4 @@ These are some things that will be implemented soon:
 - [ ] Rich terminal experience using `prompt_toolkit`
 - [ ] Full customisation over game rules via setup 'wizard' or json/yaml config
 - [ ] Custom boards
+- [ ] Incorporate expected probabilities for landing on squares (as a HUD type thing?) etc using stats from [this website](http://www.tkcs-collins.com/truman/monopoly/monopoly.shtml)
